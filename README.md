@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi primer proyecto en React
 
-Currently, two official plugins are available:
+Es una tienda de guitarras.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+creado un carrito de compra donde seleccionar nuestros productos .
+Se pueden añadir la cantidad por producto añadiendo o quitando cantidad.
+Se puede eliminar un elemento.
+Podemos vaciar la cesta.
+Es un carrito persistente, utilizando el LocalStorage
+
+A mi me ha hecho mucha ilusion.... seguimos aprendiendo
